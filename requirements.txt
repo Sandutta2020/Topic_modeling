@@ -26,7 +26,6 @@ MarkupSafe==1.1.1
 matplotlib==3.3.3
 mkl-fft
 mkl-random
-mkl-service
 mypy-extensions==0.4.3
 nltk==3.5
 numexpr==2.7.1
