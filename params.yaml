@@ -1,0 +1,5 @@
+'srcFile' : "data/K8 Reviews v0.2.csv"
+'columnName' : "review"
+'Limit' : 100000
+'startTopic' : 5
+'endTopic' : 6

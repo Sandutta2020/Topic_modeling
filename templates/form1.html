@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Data Insight</title>
+</head>
+<body>
+<h2> Please select Proper Columns </h3>
+<form action="/column_selection" enctype="multipart/form-data" method="post">
+
+    <select name="column_select" id="column_select" required="required">
+        {% for x in list %}
+        <option value="{{x}}">{{x}}</option>
+        {% endfor %}
+    </select>
+<input type="submit",value ="Please select a column">
+</form>
+{{list}}
+<p>Result: {{ Res }}</p>
+{{ tab |safe }}
+</body>
+</html>
