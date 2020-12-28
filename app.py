@@ -36,7 +36,7 @@ async def uploadfiles(request: Request, files: UploadFile = Form(...)):
         "form1.html",
         {
             "request": request,
-            "tab": df.head(5).to_html(border=1, index=False, show_dimensions=True),
+            "tab": df.head(2).to_html(border=1, index=False, show_dimensions=True),
             "Res": files.filename,
             "list": lst
         },

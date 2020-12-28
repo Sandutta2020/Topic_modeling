@@ -1,5 +1,5 @@
 # Topic Modeling:
-This can be solved by in two ways.
+This can be solved by in two ways. <br>
  1.With GUI(FastAPI) <br>
  2.Through backend
 

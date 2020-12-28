@@ -2,7 +2,7 @@
 <title> Topic analysis Report </title>
 <script>
 document.getElementById("defaultOpen").click();
-function openCity(evt, cityName) {
+function OpenTab(evt, cityName) {
   // Declare all variables
   var i, tabcontent, tablinks;
 
@@ -62,8 +62,8 @@ function openCity(evt, cityName) {
 </style>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Tabular')" id="defaultOpen">Tabular</button>
-  <button class="tablinks" onclick="openCity(event, 'Graphical')">Graphical</button>
+  <button class="tablinks" onclick="OpenTab(event, 'Tabular')" id="defaultOpen">Tabular</button>
+  <button class="tablinks" onclick="OpenTab(event, 'Graphical')">Graphical</button>
 </div>
 
 <!-- Tab content -->
