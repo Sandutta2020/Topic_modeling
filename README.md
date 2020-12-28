@@ -1,7 +1,7 @@
 # Topic Modeling:
-This can be solved by in two way
-## With GUI(FastAPI)
-## Through backend
+This can be solved by in two ways.
+### 1.With GUI(FastAPI)
+### 2.Through backend
 
 ## The folder Structer and use full
 
@@ -21,6 +21,21 @@ Base----|conf : For storing all the configuration file
         |requirements.txt : All the necessary packages
 ```
 
-## to run Fast server 
+### to install Dependency ,run the following commands
+
+```
+conda create -n envName python =3.7
+
+conda activate envName
+
+pip install -r requirements.txt
+
+```
+
+## to run FastAPI server 
 
 ``` python app.py ```
+
+On successful run it FastAPI will serve 
+
+``` http://127.0.0.1:8000/ ```
