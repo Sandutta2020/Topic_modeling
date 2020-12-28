@@ -1,6 +1,6 @@
 # Topic Modeling:
 This can be solved by in two ways.
- 1.With GUI(FastAPI)
+ 1.With GUI(FastAPI) <br>
  2.Through backend
 
 ## The folder Structer and use full
