@@ -1,10 +1,9 @@
 # Topic Modeling:
-This can be solved by in two ways. <br>
- ```diff
+ <div class="text-purple">
+This can be solved by in two ways.
  1.With GUI(FastAPI) 
  2.Through backend
-```
- 
+</div>
 
 ## The folder Structer and use full
 
