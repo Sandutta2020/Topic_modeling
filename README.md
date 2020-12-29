@@ -5,6 +5,11 @@ This can be solved by in two ways.
  2.Through backend
 </div>
 
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
+
 ## The folder Structer and use full
 
 ```
