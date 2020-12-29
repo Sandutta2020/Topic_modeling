@@ -1,6 +1,6 @@
 # Topic Modeling:
 This can be solved by in two ways. <br>
- <p style='color:red'>1.With GUI(FastAPI) </p><br> 
+ <p style="color:#ff0000">1.With GUI(FastAPI) </p>
  <p style='color:red'>2.Through backend </p>
  
 
