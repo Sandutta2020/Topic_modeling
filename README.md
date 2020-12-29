@@ -1,8 +1,8 @@
 # Topic Modeling:
 This can be solved by in two ways. <br>
  ```diff
-+ 1.With GUI(FastAPI) 
-+ 2.Through backend
+ 1.With GUI(FastAPI) 
+ 2.Through backend
 ```
  
 
