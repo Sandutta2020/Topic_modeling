@@ -1,7 +1,8 @@
 # Topic Modeling:
 This can be solved by in two ways. <br>
- 1.With GUI(FastAPI) <br>
- 2.Through backend
+ <p style='color:red'>1.With GUI(FastAPI) </p><br> 
+ <p style='color:red'>2.Through backend </p>
+ 
 
 ## The folder Structer and use full
 
