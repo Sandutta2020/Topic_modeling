@@ -1,7 +1,9 @@
 # Topic Modeling:
 This can be solved by in two ways. <br>
- <p style="color:#ff0000">1.With GUI(FastAPI) </p>
- <p style='color:red'>2.Through backend </p>
+ ```diff
++ 1.With GUI(FastAPI) 
++ 2.Through backend
+```
  
 
 ## The folder Structer and use full
