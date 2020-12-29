@@ -1,13 +1,10 @@
 # Topic Modeling:
  <div class="text-purple">
-This can be solved by in two ways.
- 1.With GUI(FastAPI) 
+This can be solved by in two ways. <br>
+ 1.With GUI(FastAPI) <br>
  2.Through backend
 </div>
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
 
 
 ## The folder Structer and use full
