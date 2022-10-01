@@ -1,3 +1,9 @@
 __pycache__/main.cpython-37.pyc
 src/__pycache__/data_preprocessing.cpython-37.pyc
 src/__pycache__/utilities.cpython-37.pyc
+report/lda.html
+destination.csv
+conf/best_params.yaml
+model/lda_model.pkl
+model/reviews.pkl
+report/topics.csv
